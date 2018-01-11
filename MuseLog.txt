@@ -1,0 +1,70 @@
+Logging in build 2017.0.3.20 started at: Thu Jun 15 02:59:14 2017
+========================================
+[00:03:01.659] 03:02:16.181 | pi uid:,U82
+[00:03:01.662] 03:02:16.185 | pi uid:,U87
+[00:03:01.663] 03:02:16.185 | pi uid:,U90
+[00:03:01.674] 03:02:16.196 | pi uid:,U72
+[00:03:01.675] 03:02:16.197 | pi uid:,U76
+[00:03:01.675] 03:02:16.197 | pi uid:,U79
+[00:03:05.175] 03:02:19.697 | pi uid:,U82
+[00:03:05.175] 03:02:19.698 | pi uid:,U87
+[00:03:05.176] 03:02:19.698 | pi uid:,U90
+[00:03:05.179] 03:02:19.702 | pi uid:,U72
+[00:03:05.180] 03:02:19.702 | pi uid:,U76
+[00:03:05.180] 03:02:19.702 | pi uid:,U79
+[00:03:39.185] 03:02:53.707 | pi uid:,U82
+[00:03:39.186] 03:02:53.708 | pi uid:,U87
+[00:03:39.186] 03:02:53.708 | pi uid:,U90
+[00:03:39.191] 03:02:53.714 | pi uid:,U72
+[00:03:39.192] 03:02:53.714 | pi uid:,U76
+[00:03:39.192] 03:02:53.715 | pi uid:,U79
+[00:04:21.077] 03:03:35.600 | Failure during Import of: cclibraries:cloud-asset://cc-api-storage.adobe.io/assets/adobe-libraries/208D19AF-2CA1-4117-B04A-BC1DC334AFBE;node=905b33fc-c996-4382-b200-ab816684ad70
+[00:04:21.078] 03:03:35.601 | Não é possível inserir o arquivo com o nome "e556d75a-0ff6-4afe-b07b-efb325b55360.ai".
+
+Um erro foi encontrado durante a importação do arquivo do Illustrator e556d75a-0ff6-4afe-b07b-efb325b55360.ai.
+[00:04:23.957] 03:03:38.480 | Failure during Import of: cclibraries:cloud-asset://cc-api-storage.adobe.io/assets/adobe-libraries/208D19AF-2CA1-4117-B04A-BC1DC334AFBE;node=905b33fc-c996-4382-b200-ab816684ad70
+[00:04:23.958] 03:03:38.481 | Não é possível inserir o arquivo com o nome "e556d75a-0ff6-4afe-b07b-efb325b55360.ai".
+
+Um erro foi encontrado durante a importação do arquivo do Illustrator e556d75a-0ff6-4afe-b07b-efb325b55360.ai.
+[00:04:34.199] 03:03:48.721 | Failure during Import of: cclibraries:cloud-asset://cc-api-storage.adobe.io/assets/adobe-libraries/208D19AF-2CA1-4117-B04A-BC1DC334AFBE;node=905b33fc-c996-4382-b200-ab816684ad70
+[00:04:34.199] 03:03:48.721 | Não é possível inserir o arquivo com o nome "e556d75a-0ff6-4afe-b07b-efb325b55360.ai".
+
+Um erro foi encontrado durante a importação do arquivo do Illustrator e556d75a-0ff6-4afe-b07b-efb325b55360.ai.
+[00:04:45.912] 03:04:00.434 | Failure during Import of: cclibraries:cloud-asset://cc-api-storage.adobe.io/assets/adobe-libraries/208D19AF-2CA1-4117-B04A-BC1DC334AFBE;node=905b33fc-c996-4382-b200-ab816684ad70
+[00:04:45.912] 03:04:00.434 | Não é possível inserir o arquivo com o nome "e556d75a-0ff6-4afe-b07b-efb325b55360.ai".
+
+Um erro foi encontrado durante a importação do arquivo do Illustrator e556d75a-0ff6-4afe-b07b-efb325b55360.ai.
+[00:04:48.492] 03:04:03.014 | Failure during Import of: cclibraries:cloud-asset://cc-api-storage.adobe.io/assets/adobe-libraries/208D19AF-2CA1-4117-B04A-BC1DC334AFBE;node=4a45c3e9-f8c9-484a-b90b-73be26c6960a
+[00:04:48.493] 03:04:03.015 | Não é possível inserir o arquivo com o nome "03d1df67-8843-4be6-82f5-20843acee149.ai".
+
+Um erro foi encontrado durante a importação do arquivo do Illustrator 03d1df67-8843-4be6-82f5-20843acee149.ai.
+[00:04:51.578] 03:04:06.100 | Failure during Import of: cclibraries:cloud-asset://cc-api-storage.adobe.io/assets/adobe-libraries/208D19AF-2CA1-4117-B04A-BC1DC334AFBE;node=4a45c3e9-f8c9-484a-b90b-73be26c6960a
+[00:04:51.579] 03:04:06.101 | Não é possível inserir o arquivo com o nome "03d1df67-8843-4be6-82f5-20843acee149.ai".
+
+Um erro foi encontrado durante a importação do arquivo do Illustrator 03d1df67-8843-4be6-82f5-20843acee149.ai.
+[00:05:23.932] 03:04:38.454 | pi uid:,U131
+[00:05:23.933] 03:04:38.455 | pi uid:,U136
+[00:05:42.697] 03:04:57.219 | quitWithUI:Quitting Application. Called by: 
+[00:05:45.149] 03:04:59.671 | Quitting Application after 5.6 minutes. Called by: 
+[00:05:47.651] Logging shutdown normally
+
+==========
+Logging ended at: Thu Jun 15 03:05:02 2017
+
+Logging in build 2017.0.3.20 started at: Fri Jun 16 00:13:57 2017
+========================================
+[00:05:37.364] 00:19:35.147 | HTMLExport Site-1(1 pages) to 'www.people2biz.com' completed with 0 warnings.
+[00:09:37.841] 00:23:35.625 | Beginning SaveAs of 'Site-1' to file '/Users/filipesoares/Dropbox/FRELAS/People2Biz/Site/p2b.muse' highest UID:156
+[00:09:39.616] 00:23:37.400 | SaveAs complete for file '/Users/filipesoares/Dropbox/FRELAS/People2Biz/Site/p2b.muse' file size:589824 mod Date:Fri Jun 16 00:23:37 GMT-0300 2017 highest UID:156
+[00:09:44.006] 00:23:41.791 | HTMLExport p2b(1 pages) to 'www.people2biz.com' completed with 0 warnings.
+[00:12:14.364] 00:26:12.148 | Beginning Save for file '/Users/filipesoares/Dropbox/FRELAS/People2Biz/Site/p2b.muse' highest UID:159
+[00:12:16.524] 00:26:14.308 | Save complete for file '/Users/filipesoares/Dropbox/FRELAS/People2Biz/Site/p2b.muse' file size:589824 mod Date:Fri Jun 16 00:26:14 GMT-0300 2017 highest UID:159
+[00:14:03.161] 00:28:00.945 | Beginning Save for file '/Users/filipesoares/Dropbox/FRELAS/People2Biz/Site/p2b.muse' highest UID:160
+[00:14:04.895] 00:28:02.679 | Save complete for file '/Users/filipesoares/Dropbox/FRELAS/People2Biz/Site/p2b.muse' file size:589824 mod Date:Fri Jun 16 00:28:02 GMT-0300 2017 highest UID:160
+[00:14:09.308] 00:28:07.092 | quitWithUI:Quitting Application. Called by: 
+[00:14:09.607] 00:28:07.392 | Quitting Application after 14.1 minutes. Called by: 
+[00:14:13.458] Logging shutdown normally
+
+==========
+Logging ended at: Fri Jun 16 00:28:11 2017
+
